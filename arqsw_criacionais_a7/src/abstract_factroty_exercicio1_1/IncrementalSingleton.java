@@ -1,4 +1,4 @@
-package abstract_factroty;
+package abstract_factroty_exercicio1_1;
 
 public class IncrementalSingleton {
 	private static IncrementalSingleton instance = new IncrementalSingleton();
